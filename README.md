@@ -1,1 +1,1 @@
-# Nginx-ajustes-b-sicos
+# Nginx ajustes basicos
