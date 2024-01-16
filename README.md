@@ -1,0 +1,1 @@
+# Nginx-ajustes-b-sicos
