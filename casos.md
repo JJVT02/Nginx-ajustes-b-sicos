@@ -7,3 +7,4 @@
 nano /var/www/html/index.nginx-debian.html
 ```
 
+![](/img/3.png)
